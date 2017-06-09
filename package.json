@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/jacobgardner/socialize/issues"
   },
-  "homepage": "https://github.com/jacobgardner/socialize#readme"
+  "homepage": "https://github.com/jacobgardner/socialize#readme",
+  "dependencies": {
+    "@types/isomorphic-fetch": "0.0.34",
+    "@types/qs": "^6.2.31",
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.18.1",
+    "momentjs": "^2.0.0",
+    "qs": "^6.4.0"
+  },
+  "devDependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/node": "^7.0.29"
+  }
 }
